@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/yejinim/movie_app_2/static/css/main.d9db0871.css",
-    "main.js": "/yejinim/movie_app_2/static/js/main.ffcd1db0.js",
-    "index.html": "/yejinim/movie_app_2/index.html",
-    "main.d9db0871.css.map": "/yejinim/movie_app_2/static/css/main.d9db0871.css.map",
-    "main.ffcd1db0.js.map": "/yejinim/movie_app_2/static/js/main.ffcd1db0.js.map"
+    "main.css": "/movie_app_2/static/css/main.d9db0871.css",
+    "main.js": "/movie_app_2/static/js/main.ffcd1db0.js",
+    "index.html": "/movie_app_2/index.html",
+    "main.d9db0871.css.map": "/movie_app_2/static/css/main.d9db0871.css.map",
+    "main.ffcd1db0.js.map": "/movie_app_2/static/js/main.ffcd1db0.js.map"
   },
   "entrypoints": [
     "static/css/main.d9db0871.css",
